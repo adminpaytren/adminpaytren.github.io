@@ -3,7 +3,7 @@ layout: post
 title: Cara Daftar PayTren Online
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Sebelum Anda mengetahui bagaimana **Cara Daftar PayTren Online** yang benar sebaiknya perlu Anda ketahui terlebih dahulu 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
