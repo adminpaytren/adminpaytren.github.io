@@ -9,11 +9,20 @@ Oleh karenanya maka Anda perlu membaca tuntas informasi di laman ini supaya Anda
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-Seperti yang sudah Saya sampaikan diawal, meskipun sudah banyak testimoni dari banyak orang yang terbukti sudah merasakan benefit dan manfaat setelah menjadi pebisnis PayTren seperti salah satunya dari segi finansial, berpenghasilan jutaan per minggu dari komisi PayTren, tentu belum bisa membuat Anda begitu yakin memutuskan untuk segera daftar. Oleh karena itu tulisan ini dibuat untuk Anda yang mungkin sebelumnya sudah tertarik menjadi semakin yakin dan yang belum tau menjadi tau dan tertarik daftar.
+Seperti yang sudah Saya sampaikan diawal, meskipun sudah banyak testimoni dari banyak orang yang terbukti sudah merasakan benefit dan manfaat setelah menjadi pebisnis PayTren seperti salah satunya dari segi finansial, tentu belum bisa membuat Anda  yakin memutuskan untuk segera daftar. 
 
-Namun untuk mengetahui apakah benar Anda membutuhkan peluang ini, maka Anda perlu menjawab pertanyaan-pertanyaan berikut:
+Oleh karena itu tulisan ini dibuat untuk Anda yang mungkin sebelumnya sudah tertarik menjadi semakin yakin dan yang belum tau menjadi tau dan tertarik daftar.
 
+Namun untuk mengetahui apakah benar Anda membutuhkan peluang ini, maka Anda perlu memahami apakah pernyatan-pernyataan berikut terjadi pada diri Anda:
 
+- [x] Kerja untuk orang lain, kerja sebulan tapi gaji habis dalam beberapa hari saja.
+- [x] Ingin jadi Pengusaha tapi bingung mau bisnis apa.
+- [x] Tidak memiliki keleluasaan waktu sehingga ingin usaha yang Kerja Bisa Dirumah, Dimanapun, Kapanpun. Tanpa Meninggalkan Keluarga Anda (pasangan & anak) tercinta.
+- [x] Bingung memilih bisnis yang jangka panjang, yang bisa diwariskan ke anak cucu, bukan mewariskan hutang kepada mereka.
+- [x] Pengeluaran transaksi-transaksi rutin membengkak, makanya cari cara agar lebih praktis dan lebih mudah bahkan dapat menghasilkan cashback dan komisi yang fantastis?
+- [x] Memutuskan resign, buka usaha, tapi rugi melulu.
+- [x] Mau berbisnis, tapi takut gak dibimbing.
+- [x] Sudah punya Usaha tapi belum bisa menghasilkan lebih banyak?
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
