@@ -74,19 +74,33 @@ PayTren adalah bukan sembarang bisnis biasa sebagaimana yang pernah disampaikan 
 
 > Ini usaha rakyat, karena Saya membagi keuntungan kepada semua yang terlibat, jadi umpama orang bayar listrik dia bukan dapet cuman kembalian berupa cashback, tapi dia dapet bonus-bonus jaringan yang 'itu sebulan bisa jutaan, belasan bahkan puluhan, bahkan juga mungkin ratusan.
 
-Menurut apa yang pernah disampaikan UYM diatas, misalnya dari segi finansial PayTren memang sudah terbukti menjadi jalan rezeki bagi pebisnisnya.
+Menurut apa yang pernah disampaikan UYM diatas, misalnya dari segi finansial PayTren memang sudah terbukti telah menjadi jalan rezeki bagi pebisnisnya.
 
 Tapi apakah PayTren **LEGAL** dan sudah sesuai **SYARIAH**?
 
-Mungkin Anda pun berfikir demikian, karenanya silahkan lanjutkan membaca untuk mengetahuinya.
-
-Semua orang termasuk Anda pasti menginginkan berada dalam kendaraan bisnis yang jangka panjang, LEGAL secara regulasi dan paling penting adalah sesuai SYARIAH.
+Mungkin Anda pun berfikir demikian, semua orang termasuk Anda pasti menginginkan berada dalam kendaraan bisnis yang jangka panjang, LEGAL secara regulasi dan paling penting adalah sesuai SYARIAH.
 
 Alhamdulillah, perlu diketahui bahwa PayTren sudah memperoleh izin dan diawasi 4 lembaga besar regulator, ini merupakan bukti keseriusan PayTren demi memberi manfaat seluas-luasnya dalam jangka panjang.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
+Setelah memahami apa yang sudah dijelaskan diatas, bagi Anda yang sudah semakin yakin dan mantap untuk menjadi bagian dari keluarga besar PayTren dan ingin mengetahui **Apa Saja Keuntungan yang Anda Dapatkan Setelah Daftar PayTren**, berikut adalah penjelasannya:
 
+:iphone: Aplikasi PayTren yang memudahkan pembayaran kebutuhan sehari-hari hanya dengan menggunakan HP. Praktis, effisien, hemat biaya & waktu, serta dapat cashback.
+
+:department_store: Akses ke marketplace Belanjaqu, baik menjadi penjual atau pembeli, dengan cashback dan keuntungan yang lebih besar.
+
+:school: Akses aplikasi PayTren Academy tempat belajar pebisnis PayTren baik online maupun offline. Dipandu oleh para ahli dalam berbagai bidang, baik course berbayar maupun gratisan.
+
+:credit_card: Bisa berbelanja di merchant-merchant atau sesama mitra yang bergabung dengan PayTren, tanpa uang cash, hanya melalui HP.
+
+:money_with_wings: Berkesempatan mendapatkan penghasilan hingga jutaan bahkan miliaran rupiah, dengan ikut memasarkan PayTren atau membuka pendaftaran PayTren. Bonus-bonusnya banyak banget...
+
+:busts_in_silhouette: Tentunya bisa nambah teman, komunitas, orang-orang yang sevibrasi positif, agamis dan visioner.
+
+:mortar_board: Bisa belajar strategi bisnis online melalui sosial media (khusus yang bergabung dengan team kami) ada group khususnya dan sudah kami siapkan panduan pembelajarannya.
+
+:family: Daftar sekali, keuntungan seumur hidup bahkan dapat diwariskan.
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
