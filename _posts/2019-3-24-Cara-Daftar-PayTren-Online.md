@@ -3,7 +3,7 @@ layout: post
 title: Cara Daftar PayTren Online
 ---
 
-Sebelum Anda mengetahui bagaimana **Cara Daftar PayTren Online** yang benar dan mempraktekkannya, sebaiknya perlu Anda ketahui terlebih dalu apakah PayTren benar-benar yang Anda butuhkan, yang bisa mengatasi atau menjadi solusi dari masalah dan kekhawatiran Anda selama ini. 
+Sebelum Anda mengetahui bagaimana **Cara Daftar PayTren Online** yang benar dan mempraktekkannya, sebaiknya perlu Anda ketahui terlebih dulu apakah PayTren benar-benar yang Anda butuhkan, yang bisa mengatasi atau menjadi solusi dari masalah dan kekhawatiran Anda selama ini. 
 
 Oleh karenanya maka Anda perlu membaca tuntas informasi di laman ini supaya Anda tidak terkesan terburu-buru daftar sebelum mendapat informasi yang cukup tentang PayTren, termasuk apa saja keuntungan yang Anda dapatkan setelah bergabung di komunitas pebisnis PayTren.
 
@@ -62,7 +62,18 @@ Berikut adalah tanggapan-tanggapan positif dari banyak tokoh-tokoh terkenal tent
 *Menteri Komunikasi RI*
 > Saya berharap PayTren menjadi salah satu motor percepatan inklusi keuangan di Indonesia.
 
+Setelah membaca tanggapan-tanggapan positif dari tokoh-tokoh terkenal diatas setidaknya tentu membuat Anda semakin yakin dengan PayTren.
 
+PayTren adalah bukan sembarang bisnis biasa sebagaimana yang pernah disampaikan oleh **Ust. Yusuf Mansur** selaku owner:
+
+> Bisnis PayTren ini bukan bisnis biasa, InsyaAllah Saya pikirin terus, Saya perjuangin terus, mudah-mudahan menjadi salah satu tambahan dari gerakan ekonomi berjamaah. 
+
+Kebayang kan jika kita bersatu, kalo untung ya buat pesantren, dakwah, ya buat gitu-gitu lah. Beda sama kapitalis, yang kalo untung ga bagi-bagi. 
+
+Yang semangat ya. 
+SALAM SUKSES.
+
+> Ini usaha rakyat, karena Saya membagi keuntungan kepada semua yang terlibat, jadi umpama orang bayar listrik dia bukan dapet cuman kembalian berupa cashback, tapi dia dapet bonus-bonus jaringan yang 'itu sebulan bisa jutaan, belasan bahkan puluhan, bahkan juga mungkin ratusan.
 
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
