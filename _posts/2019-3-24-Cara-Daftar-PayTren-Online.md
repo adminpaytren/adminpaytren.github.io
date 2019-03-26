@@ -70,11 +70,21 @@ PayTren adalah bukan sembarang bisnis biasa sebagaimana yang pernah disampaikan 
 
 > Kebayang kan jika kita bersatu, kalo untung ya buat pesantren, dakwah, ya buat gitu-gitu lah. Beda sama kapitalis, yang kalo untung ga bagi-bagi. 
 
-Yang semangat ya. 
-SALAM SUKSES.
+> Yang semangat ya. SALAM SUKSES.
 
 > Ini usaha rakyat, karena Saya membagi keuntungan kepada semua yang terlibat, jadi umpama orang bayar listrik dia bukan dapet cuman kembalian berupa cashback, tapi dia dapet bonus-bonus jaringan yang 'itu sebulan bisa jutaan, belasan bahkan puluhan, bahkan juga mungkin ratusan.
 
+Menurut apa yang pernah disampaikan UYM diatas, misalnya dari segi finansial PayTren memang sudah terbukti menjadi jalan rezeki bagi pebisnisnya.
+
+Tapi apakah PayTren **LEGAL** dan sudah sesuai **SYARIAH**?
+
+Mungkin Anda pun berfikir demikian, karenanya silahkan lanjutkan membaca untuk mengetahuinya.
+
+Semua orang termasuk Anda pasti menginginkan berada dalam kendaraan bisnis yang jangka panjang, LEGAL secara regulasi dan paling penting adalah sesuai SYARIAH.
+
+Alhamdulillah, perlu diketahui bahwa PayTren sudah memperoleh izin dan diawasi 4 lembaga besar regulator, ini merupakan bukti keseriusan PayTren demi memberi manfaat seluas-luasnya dalam jangka panjang.
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
