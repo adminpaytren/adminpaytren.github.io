@@ -3,15 +3,15 @@ layout: post
 title: Cara Daftar PayTren Online
 ---
 
-Sebelum Anda mengetahui bagaimana **Cara Daftar PayTren Online** yang benar dan memutuskan daftar setelahnya, sebaiknya perlu Anda ketahui terlebih dahulu apakah PayTren benar-benar yang Anda butuhkan, yang bisa mengatasi atau menjadi solusi dari masalah dan kekhawatiran Anda selama ini. 
+Sebelum Anda mengetahui bagaimana **Cara Daftar PayTren Online** yang benar dan mempraktekkannya, sebaiknya perlu Anda ketahui terlebih dalu apakah PayTren benar-benar yang Anda butuhkan, yang bisa mengatasi atau menjadi solusi dari masalah dan kekhawatiran Anda selama ini. 
 
 Oleh karenanya maka Anda perlu membaca tuntas informasi di laman ini supaya Anda tidak terkesan terburu-buru daftar sebelum mendapat informasi yang cukup tentang PayTren, termasuk apa saja keuntungan yang Anda dapatkan setelah bergabung di komunitas pebisnis PayTren.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-Seperti yang sudah Saya sampaikan diawal, meskipun sudah banyak testimoni dari banyak orang yang terbukti sudah merasakan benefit dan manfaat setelah menjadi pebisnis PayTren seperti salah satunya dari segi finansial, tentu belum bisa membuat Anda  yakin memutuskan untuk segera daftar. 
+Meskipun sudah banyak testimoni dari banyak orang yang terbukti sudah merasakan benefit dan manfaat setelah menjadi pebisnis PayTren seperti salah satunya dari segi finansial, tentu belum bisa membuat Anda  yakin memutuskan untuk segera daftar. 
 
-Oleh karena itu tulisan ini dibuat untuk Anda yang mungkin sebelumnya sudah tertarik menjadi semakin yakin dan yang belum tau menjadi paham dan tertarik daftar.
+Oleh karena itu tulisan ini dibuat untuk Anda yang mungkin sebelumnya sudah tertarik daftar menjadi semakin yakin dan yang belum tau menjadi paham.
 
 Namun untuk mengetahui apakah benar Anda membutuhkan peluang ini, maka Anda perlu memahami apakah pernyataan-pernyataan berikut terjadi pada diri Anda:
 
@@ -24,7 +24,9 @@ Namun untuk mengetahui apakah benar Anda membutuhkan peluang ini, maka Anda perl
 - [x] Mau berbisnis, tapi takut gak dibimbing.
 - [x] Sudah punya Usaha tapi belum bisa menghasilkan lebih banyak?
 
-### Maka BENAR, PayTren solusinya...
+### Jika BENAR, Maka YA. PayTren solusinya...
+
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
