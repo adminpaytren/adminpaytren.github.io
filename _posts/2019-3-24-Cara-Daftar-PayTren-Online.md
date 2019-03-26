@@ -26,7 +26,10 @@ Namun untuk mengetahui apakah benar Anda membutuhkan peluang ini, maka Anda perl
 
 ### Jika BENAR, Maka YA. PayTren solusinya...
 
+Berikut adalah tanggapan-tanggapan positif dari banyak tokoh-tokoh terkenal tentang PayTren:
 
+Ust. Abdul Somad:
+> Baru-baru ini PayTren mendapat sertifikat halal dari MUI. Kalau sudah MUI mengeluarkan, selesai lah. MUI punya komisi fatwa. Komisi fatwa mengeluarkan fatwa, maka pakailah fatwa MUI.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
