@@ -28,10 +28,41 @@ Namun untuk mengetahui apakah benar Anda membutuhkan peluang ini, maka Anda perl
 
 Berikut adalah tanggapan-tanggapan positif dari banyak tokoh-tokoh terkenal tentang PayTren:
 
-Ust. Abdul Somad:
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+### Ust. Abdul Somad
+*Ulama & Da'i Nasional*
 > Baru-baru ini PayTren mendapat sertifikat halal dari MUI. Kalau sudah MUI mengeluarkan, selesai lah. MUI punya komisi fatwa. Komisi fatwa mengeluarkan fatwa, maka pakailah fatwa MUI.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+### Aa Gym
+*Ulama & Da'i Nasional*
+> Semoga yang mengelola semakin dekat dengan Allah, yang menjadi anggota juga makin dekat dengan Allah, dan yang mendapat manfaat makin dekat dengan Allah. Karena yang paling penting dari PayTren ini adalah menjadi jalan mendekat kepada Allah dan menjadi jalan manfaat bagi umat.
+
+### Ust. Bachtiar Nasir
+*Ulama & Da'i Nasional*
+> PayTren sekarang sudah dapat ijin dari BI, dan ini milik umat, kita harus dukung. Bisa beli macam-macam lewat PayTren. Kalau Saya sih ngga ragu.
+
+### Syekh Ali Jaber
+*Ulama & Da'i Nasional*
+> Pokoknya semua yang belum menjadi keluarga besar dari PayTren, segera daftar. Biar rezekinya ajib, jodohnya ajib, semuanya ajib.
+
+### K.H. Ma'ruf Amin
+*Ulama & Da'i Nasional*
+> Paytren sebagai salah satunya lembaga, yang memperoleh izin e-money nonbank, dan dari pengusaha umat, kita harapkan berkembang dan menjadi perusaahan yang bisa di banggakan oleh masyarakat dan umat dan juga oleh negara.
+
+### Sandiaga Uno
+*Pengusaha*
+> Ini bukan ngiklan. Tapi PayTren itu adalah contoh solusi terbaik bangsa untuk masalah keuangan.
+
+### Syahrini
+*Artis & Penyanyi*
+> Mudah-mudahan anak-anak muda yang sudah mengerti dunia digital bisa mendownload ini, saya support sekali. Karena ini membantu sekali untuk menyimpelkan hidup. Hidup itu sudah ribet dan berat. Jadi make it simple. PayTren solusinya.
+
+### Rudiantara
+*Menteri Komunikasi RI*
+> Saya berharap PayTren menjadi salah satu motor percepatan inklusi keuangan di Indonesia.
+
+
 
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
