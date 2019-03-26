@@ -86,21 +86,39 @@ Alhamdulillah, perlu diketahui bahwa PayTren sudah memperoleh izin dan diawasi 4
 
 Setelah memahami apa yang sudah dijelaskan diatas, bagi Anda yang sudah semakin yakin dan mantap untuk menjadi bagian dari keluarga besar PayTren dan ingin mengetahui **Apa Saja Keuntungan yang Anda Dapatkan Setelah Daftar PayTren**, berikut adalah penjelasannya:
 
-:iphone: Aplikasi PayTren yang memudahkan pembayaran kebutuhan sehari-hari hanya dengan menggunakan HP. Praktis, effisien, hemat biaya & waktu, serta dapat cashback.
+1. Aplikasi PayTren yang memudahkan pembayaran kebutuhan sehari-hari hanya dengan menggunakan HP. Praktis, effisien, hemat biaya & waktu, serta dapat cashback.
 
-:department_store: Akses ke marketplace Belanjaqu, baik menjadi penjual atau pembeli, dengan cashback dan keuntungan yang lebih besar.
+2. Akses ke marketplace Belanjaqu, baik menjadi penjual atau pembeli, dengan cashback dan keuntungan yang lebih besar.
 
-:school: Akses aplikasi PayTren Academy tempat belajar pebisnis PayTren baik online maupun offline. Dipandu oleh para ahli dalam berbagai bidang, baik course berbayar maupun gratisan.
+3. Akses aplikasi PayTren Academy tempat belajar pebisnis PayTren baik online maupun offline. Dipandu oleh para ahli dalam berbagai bidang, baik course berbayar maupun gratisan.
 
-:credit_card: Bisa berbelanja di merchant-merchant atau sesama mitra yang bergabung dengan PayTren, tanpa uang cash, hanya melalui HP.
+4. Bisa berbelanja di merchant-merchant atau sesama mitra yang bergabung dengan PayTren, tanpa uang cash, hanya melalui HP.
 
-:money_with_wings: Berkesempatan mendapatkan penghasilan hingga jutaan bahkan miliaran rupiah, dengan ikut memasarkan PayTren atau membuka pendaftaran PayTren. Bonus-bonusnya banyak banget...
+5. Berkesempatan mendapatkan penghasilan hingga jutaan bahkan miliaran rupiah, dengan ikut memasarkan PayTren atau membuka pendaftaran PayTren. Bonus-bonusnya banyak banget...
 
-:busts_in_silhouette: Tentunya bisa nambah teman, komunitas, orang-orang yang sevibrasi positif, agamis dan visioner.
+6. Tentunya bisa nambah teman, komunitas, orang-orang yang sevibrasi positif, agamis dan visioner.
 
-:mortar_board: Bisa belajar strategi bisnis online melalui sosial media (khusus yang bergabung dengan team kami) ada group khususnya dan sudah kami siapkan panduan pembelajarannya.
+7. Bisa belajar strategi bisnis online melalui sosial media (khusus yang bergabung dengan team kami) ada group khususnya dan sudah kami siapkan panduan pembelajarannya.
 
-:family: Daftar sekali, keuntungan seumur hidup bahkan dapat diwariskan.
+8. Daftar sekali, keuntungan seumur hidup bahkan dapat diwariskan.
+
+Berikut adalah **Testimony Pebisnis PayTren** yang telah membuktikan PayTren sebagai jalan rezeki:
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+> Seorang Ibu 4 orang anak, mengasuh sendirian, mantan penjual gorengan, militan banget… Kini mampu memiliki income jutaan perhari. Alhamdulillah…
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+> Beliau bekerja di HK sebagai asisten rumah tangga, kini semuanya berubah, karena penghasilannya meningkat berlipat-lipat. Inspiratifff…
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+> Yu hu… Alhamdulillah… Beliau seorang ibu rumah tangga yang rajin belajar, kl ada yg gak faham, beliau terus bertanya. Cerewet sih, hehehe… Tp membawanya menjadi Ibu jutawan. Kerennn…
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+> Mantan karyawan (tukang suntik ayam), kini jadi jutawan di PayTren. Skrg sudah punya mobil juga. Sudah menikah juga. hehehe
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+> Seorang ibu rumah tangga yang super sibuk. Tp hal itu gak masalah karena PayTren di kerjakan dr rumah.
+
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
