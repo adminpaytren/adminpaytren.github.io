@@ -68,7 +68,7 @@ PayTren adalah bukan sembarang bisnis biasa sebagaimana yang pernah disampaikan 
 
 > Bisnis PayTren ini bukan bisnis biasa, InsyaAllah Saya pikirin terus, Saya perjuangin terus, mudah-mudahan menjadi salah satu tambahan dari gerakan ekonomi berjamaah. 
 
-Kebayang kan jika kita bersatu, kalo untung ya buat pesantren, dakwah, ya buat gitu-gitu lah. Beda sama kapitalis, yang kalo untung ga bagi-bagi. 
+> Kebayang kan jika kita bersatu, kalo untung ya buat pesantren, dakwah, ya buat gitu-gitu lah. Beda sama kapitalis, yang kalo untung ga bagi-bagi. 
 
 Yang semangat ya. 
 SALAM SUKSES.
