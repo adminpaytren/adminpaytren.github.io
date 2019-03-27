@@ -7,7 +7,7 @@ Sebelum Anda mengetahui bagaimana **Cara Daftar PayTren Online** yang benar dan 
 
 Oleh karenanya maka Anda perlu membaca tuntas informasi di laman ini supaya Anda tidak terkesan terburu-buru daftar sebelum mendapat informasi yang cukup tentang PayTren, termasuk apa saja keuntungan yang Anda dapatkan setelah bergabung di komunitas pebisnis PayTren.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![daftar-paytren-online]({{ site.baseurl }}/images/daftar-paytren-online.jpg)
 
 Meskipun sudah banyak testimoni dari banyak orang yang terbukti sudah merasakan benefit dan manfaat setelah menjadi pebisnis PayTren seperti salah satunya dari segi finansial, tentu belum bisa membuat Anda  yakin memutuskan untuk segera daftar. 
 
