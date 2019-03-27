@@ -131,11 +131,39 @@ Gunakan aplikasi PayTren untuk memudahkan transaksi rutin Anda seperti beli puls
 - [x] **Memasarkan Lisensi PayTren**
 Keuntungan besar yang Anda peroleh terdapat di poin ini, mengembangkan bisnis PayTren Anda dengan cara membantu perusahaan merekomendasikan PayTren atau membantu orang-orang terdekat Anda bahkan orang yang jauh sekalipun secara online yang ingin mendaftar PayTren. Dengan begitu Anda berhak mendapatkan komisi, cashback transaksi komunitas dan juga REWARD dari perusahaan.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+Untuk Anda yang sudah tidak sabar daftar, silahkan ikuti langkah-langkah **Cara Daftar PayTren Online** berikut:
+
+**Langkah #1** *AKTIVASI USER E-MONEY*
+
+1. Download & Install Aplikasi PayTren 5.17 di Playstore atau IOS
+2. Buka Aplikasi PayTren 5.17, Masukan Nomor HP lalu klik *Lanjutkan*
+3. Isi Data Diri (Nama Lengkap), Tanggal Lahir dan Alamat Email Lalu Klik *Lanjutkan*
+4. Masukan *4 digit kode OTP* yang dikirim ke SMS, lalu *buat PIN Transaksi*
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+**Langkah #2** *KONFIRMASI DULU untuk pengisian SALDO EMONEY...* Konfirmasi lewat [Whatsapp](wa.me/6282320067466)
+
+**Langkah #3** *BELI STARTER PACK*
+
+1. *Buka* ke Aplikasi PayTren
+2. Klik Banner *Beli Starterpack* di Layar Utama Aplikasi
+3. Baca Syarat dan Ketentuan lalu Centang kotak *Persetujuan*., lalu Klik *Upgrade ke Mitra Pebisnis*
+4. Upload : Foto e-KTP 👉 Klik Gunakan, Foto Selfie Wajah 👉 Klik Gunakan, Foto Tanda Tangan 👉 Klik Gunakan
+5. Klik Tombol *Saya Yakin Data Sudah Benar*
+6. Klik Tombol *Beli Starterpack*, Masukan PIN dan klik Lanjutkan
+
+**Langkah #4** *UPGRADE MENJADI MITRA PEBISNIS PREMIER (BASIC)*
+
+1. Buka ke Aplikasi PayTren
+2. Klik Banner *Upgrade Pebisnis* di Layar Utama Aplikasi
+3. Baca Syarat dan Ketentuan, Lalu *Centang Kotak Persetujuan*
+4. Klik Manfaat dan Ketentuan, Klik Cara Upgrade, Lalu *Klik Syarat dan Ketentuan*
+5. Klik Tombol *Beli Lisensi Pebisnis*
+6. Pilih *Mentor Bisnis* dengan Mengetik ID Mitra *TN0111923* a.n. Tri Afrizal Hilmi. Klik Lanjutkan
+7. Masukan PIN lalu klik *Bayar*
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
