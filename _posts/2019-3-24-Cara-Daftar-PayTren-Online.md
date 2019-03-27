@@ -119,7 +119,9 @@ Berikut adalah **Testimony Pebisnis PayTren** yang telah membuktikan PayTren seb
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 > Seorang ibu rumah tangga yang super sibuk. Tp hal itu gak masalah karena PayTren di kerjakan dr rumah.
 
-**Berikut adalah cara kerja di bisnis PayTren...** Secara sederhana cara kerja PayTren 
+Sampai disini, untuk Anda yang sudah semakin tertarik dan penasaran seperti apa **Cara Kerja di Bisnis PayTren...** Secara sederhana cara kerjanya adalah sebagai berikut:
+
+- [x] 
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
