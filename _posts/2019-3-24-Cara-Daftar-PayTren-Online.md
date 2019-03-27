@@ -131,10 +131,11 @@ Gunakan aplikasi PayTren untuk memudahkan transaksi rutin Anda seperti beli puls
 - [x] **Memasarkan Lisensi PayTren**
 Keuntungan besar yang Anda peroleh terdapat di poin ini, mengembangkan bisnis PayTren Anda dengan cara membantu perusahaan merekomendasikan PayTren atau membantu orang-orang terdekat Anda bahkan orang yang jauh sekalipun secara online yang ingin mendaftar PayTren. Dengan begitu Anda berhak mendapatkan komisi, cashback transaksi komunitas dan juga REWARD dari perusahaan.
 
-First Header | Second Header
------------- | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
