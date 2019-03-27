@@ -121,7 +121,15 @@ Berikut adalah **Testimony Pebisnis PayTren** yang telah membuktikan PayTren seb
 
 Sampai disini, untuk Anda yang sudah semakin tertarik dan penasaran seperti apa **Cara Kerja di Bisnis PayTren...** Secara sederhana cara kerjanya adalah sebagai berikut:
 
-- [x] 
+- [x] Transaksi Pribadi
+Gunakan aplikasi PayTren untuk memudahkan transaksi rutin Anda seperti beli pulsa, beli token listrik, bayar tagihan listrik, bpjs, pdam, beli tiket pesawat/ kereta dll., yang sebelumnya transaksi menggunakan aplikasi lain yang sejenis atau bahkan di loket-loket atau konter, ke aplikasi PayTren di smartphone Anda. 
+
+Dengan begitu, selain Anda sudah mendapatkan keuntungan berupa harga yang lebih murah dan praktis, juga mendapat cashback dan bernilai sedekah dari setiap transaksi yang Anda lakukan, perlu diketahui sedekah disalurkan ke PPPA Darul Qur’an asuhan Ustadz Yusuf Mansur untuk pembiayaan santri penghafal Al-Qur’an termasuk juga disalurkan untuk bantuan kegiatan sosial lainnya.
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+- [x] Memasarkan Lisensi PayTren
+Keuntungan besar yang Anda peroleh terdapat di poin ini, mengembangkan bisnis PayTren Anda dengan cara membantu perusahaan merekomendasikan PayTren atau membantu orang-orang terdekat Anda bahkan orang yang jauh sekalipun secara online yang ingin mendaftar PayTren. Dengan begitu Anda berhak mendapatkan komisi, cashback transaksi komunitas dan juga REWARD dari perusahaan.
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
