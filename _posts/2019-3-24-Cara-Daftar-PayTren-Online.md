@@ -15,14 +15,14 @@ Oleh karena itu tulisan ini dibuat untuk Anda yang mungkin sebelumnya sudah tert
 
 Namun untuk mengetahui apakah benar Anda membutuhkan peluang ini, maka Anda perlu memahami apakah pernyataan-pernyataan berikut terjadi pada diri Anda:
 
-- [x] Kerja untuk orang lain, kerja sebulan tapi gaji habis dalam beberapa hari saja.
-- [x] Ingin jadi Pengusaha tapi bingung mau bisnis apa.
-- [x] Tidak memiliki keleluasaan waktu sehingga ingin usaha yang Kerja Bisa Dirumah, Dimanapun, Kapanpun. Tanpa Meninggalkan Keluarga Anda (pasangan & anak) tercinta.
-- [x] Bingung memilih bisnis yang jangka panjang, yang bisa diwariskan ke anak cucu, bukan mewariskan hutang kepada mereka.
-- [x] Pengeluaran transaksi-transaksi rutin membengkak, makanya cari cara agar lebih praktis dan lebih mudah bahkan dapat menghasilkan cashback dan komisi yang fantastis?
-- [x] Memutuskan resign, buka usaha, tapi rugi melulu.
-- [x] Mau berbisnis, tapi takut gak dibimbing.
-- [x] Sudah punya Usaha tapi belum bisa menghasilkan lebih banyak?
+📌 [x] Kerja untuk orang lain, kerja sebulan tapi gaji habis dalam beberapa hari saja.
+📌 [x] Ingin jadi Pengusaha tapi bingung mau bisnis apa.
+📌 [x] Tidak memiliki keleluasaan waktu sehingga ingin usaha yang Kerja Bisa Dirumah, Dimanapun, Kapanpun. Tanpa Meninggalkan Keluarga Anda (pasangan & anak) tercinta.
+📌 [x] Bingung memilih bisnis yang jangka panjang, yang bisa diwariskan ke anak cucu, bukan mewariskan hutang kepada mereka.
+📌 [x] Pengeluaran transaksi-transaksi rutin membengkak, makanya cari cara agar lebih praktis dan lebih mudah bahkan dapat menghasilkan cashback dan komisi yang fantastis?
+📌 [x] Memutuskan resign, buka usaha, tapi rugi melulu.
+📌 [x] Mau berbisnis, tapi takut gak dibimbing.
+📌 [x] Sudah punya Usaha tapi belum bisa menghasilkan lebih banyak?
 
 ### Jika BENAR, Maka YA. PayTren solusinya...
 
@@ -86,21 +86,21 @@ Alhamdulillah, perlu diketahui bahwa PayTren sudah memperoleh izin dan diawasi 4
 
 Setelah memahami apa yang sudah dijelaskan diatas, bagi Anda yang sudah semakin yakin dan mantap untuk menjadi bagian dari keluarga besar PayTren dan ingin mengetahui **Apa Saja Keuntungan yang Anda Dapatkan Setelah Daftar PayTren**, berikut adalah penjelasannya:
 
-1. Aplikasi PayTren yang memudahkan pembayaran kebutuhan sehari-hari hanya dengan menggunakan HP. Praktis, effisien, hemat biaya & waktu, serta dapat cashback.
+1. 📱 Aplikasi PayTren yang memudahkan pembayaran kebutuhan sehari-hari hanya dengan menggunakan HP. Praktis, effisien, hemat biaya & waktu, serta dapat cashback.
 
-2. Akses ke marketplace Belanjaqu, baik menjadi penjual atau pembeli, dengan cashback dan keuntungan yang lebih besar.
+2. 🏬 Akses ke marketplace Belanjaqu, baik menjadi penjual atau pembeli, dengan cashback dan keuntungan yang lebih besar.
 
-3. Akses aplikasi PayTren Academy tempat belajar pebisnis PayTren baik online maupun offline. Dipandu oleh para ahli dalam berbagai bidang, baik course berbayar maupun gratisan.
+3. 🎓 Akses aplikasi PayTren Academy tempat belajar pebisnis PayTren baik online maupun offline. Dipandu oleh para ahli dalam berbagai bidang, baik course berbayar maupun gratisan.
 
-4. Bisa berbelanja di merchant-merchant atau sesama mitra yang bergabung dengan PayTren, tanpa uang cash, hanya melalui HP.
+4. 💳 Bisa berbelanja di merchant-merchant atau sesama mitra yang bergabung dengan PayTren, tanpa uang cash, hanya melalui HP.
 
-5. Berkesempatan mendapatkan penghasilan hingga jutaan bahkan miliaran rupiah, dengan ikut memasarkan PayTren atau membuka pendaftaran PayTren. Bonus-bonusnya banyak banget...
+5. 💸 Berkesempatan mendapatkan penghasilan hingga jutaan bahkan miliaran rupiah, dengan ikut memasarkan PayTren atau membuka pendaftaran PayTren. Bonus-bonusnya banyak banget...
 
-6. Tentunya bisa nambah teman, komunitas, orang-orang yang sevibrasi positif, agamis dan visioner.
+6. 👐 Tentunya bisa nambah teman, komunitas, orang-orang yang sevibrasi positif, agamis dan visioner.
 
-7. Bisa belajar strategi bisnis online melalui sosial media (khusus yang bergabung dengan team kami) ada group khususnya dan sudah kami siapkan panduan pembelajarannya.
+7. 🎓 Bisa belajar strategi bisnis online melalui sosial media (khusus yang bergabung dengan team kami) ada group khususnya dan sudah kami siapkan panduan pembelajarannya.
 
-8. Daftar sekali, keuntungan seumur hidup bahkan dapat diwariskan.
+8. 👪 Daftar sekali, keuntungan seumur hidup bahkan dapat diwariskan.
 
 Berikut adalah **Testimony Pebisnis PayTren** yang telah membuktikan PayTren sebagai jalan rezeki:
 
@@ -144,7 +144,7 @@ Untuk Anda yang sudah tidak sabar daftar, silahkan ikuti langkah-langkah **Cara 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-**Langkah #2** *KONFIRMASI DULU untuk pengisian SALDO EMONEY...* Konfirmasi lewat [Whatsapp](wa.me/6282320067466)
+**Langkah #2** *KONFIRMASI DULU untuk pengisian SALDO EMONEY...* Konfirmasi lewat [Whatsapp](https://wa.me/6282320067466)
 
 **Langkah #3** *BELI STARTER PACK*
 
