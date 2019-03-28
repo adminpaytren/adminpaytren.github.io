@@ -28,7 +28,7 @@ Namun untuk mengetahui apakah benar Anda membutuhkan peluang ini, maka Anda perl
 
 Berikut adalah tanggapan-tanggapan positif dari banyak tokoh-tokoh terkenal tentang PayTren:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![tokoh-paytren]({{ site.baseurl }}/images/tokoh-paytren.jpg)
 
 ### Ust. Abdul Somad
 *Ulama & Da'i Nasional*
