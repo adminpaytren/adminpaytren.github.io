@@ -130,12 +130,12 @@ Gunakan aplikasi PayTren untuk memudahkan transaksi rutin Anda seperti beli puls
 
 > Dengan begitu, selain Anda sudah mendapatkan keuntungan berupa harga yang lebih murah dan praktis, juga mendapat cashback dan bernilai sedekah dari setiap transaksi yang Anda lakukan, perlu diketahui sedekah disalurkan ke PPPA Darul Qur’an asuhan Ustadz Yusuf Mansur untuk pembiayaan santri penghafal Al-Qur’an termasuk juga disalurkan untuk bantuan kegiatan sosial lainnya.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![cara-kerja-paytren]({{ site.baseurl }}/images/cara-kerja.jpg)
 
 - [x] **Memasarkan Lisensi PayTren**
 Keuntungan besar yang Anda peroleh terdapat di poin ini, mengembangkan bisnis PayTren Anda dengan cara membantu perusahaan merekomendasikan PayTren atau membantu orang-orang terdekat Anda bahkan orang yang jauh sekalipun secara online yang ingin mendaftar PayTren. Dengan begitu Anda berhak mendapatkan komisi, cashback transaksi komunitas dan juga REWARD dari perusahaan.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![paytren-emoney]({{ site.baseurl }}/images/bank-paytren.jpg)
 
 Untuk Anda yang sudah tidak sabar daftar, silahkan ikuti langkah-langkah **Cara Daftar PayTren Online** berikut:
 
@@ -146,7 +146,7 @@ Untuk Anda yang sudah tidak sabar daftar, silahkan ikuti langkah-langkah **Cara 
 3. Isi Data Diri (Nama Lengkap), Tanggal Lahir dan Alamat Email Lalu Klik *Lanjutkan*
 4. Masukan *4 digit kode OTP* yang dikirim ke SMS, lalu *buat PIN Transaksi*
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![pengguna-pebisnis-paytren]({{ site.baseurl }}/images/kemitraan.jpg)
 
 **Langkah #2** *KONFIRMASI DULU untuk pengisian SALDO EMONEY...* Konfirmasi lewat [Whatsapp](https://wa.me/6282320067466)
 
