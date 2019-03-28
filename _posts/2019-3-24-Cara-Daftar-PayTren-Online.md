@@ -67,11 +67,11 @@ Setelah membaca tanggapan-tanggapan positif dari tokoh-tokoh terkenal diatas set
 PayTren adalah bukan sembarang bisnis biasa sebagaimana yang pernah disampaikan oleh **Ust. Yusuf Mansur** selaku owner:
 
 > Bisnis PayTren ini bukan bisnis biasa, InsyaAllah Saya pikirin terus, Saya perjuangin terus, mudah-mudahan menjadi salah satu tambahan dari gerakan ekonomi berjamaah. 
-
+>
 > Kebayang kan jika kita bersatu, kalo untung ya buat pesantren, dakwah, ya buat gitu-gitu lah. Beda sama kapitalis, yang kalo untung ga bagi-bagi. 
-
+>
 > Yang semangat ya. SALAM SUKSES.
-
+>
 > Ini usaha rakyat, karena Saya membagi keuntungan kepada semua yang terlibat, jadi umpama orang bayar listrik dia bukan dapet cuman kembalian berupa cashback, tapi dia dapet bonus-bonus jaringan yang 'itu sebulan bisa jutaan, belasan bahkan puluhan, bahkan juga mungkin ratusan.
 
 Menurut apa yang pernah disampaikan UYM diatas, misalnya dari segi finansial PayTren memang sudah terbukti telah menjadi jalan rezeki bagi pebisnisnya.
