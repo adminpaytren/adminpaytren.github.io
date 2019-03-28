@@ -108,19 +108,19 @@ Setelah memahami apa yang sudah dijelaskan diatas, bagi Anda yang sudah semakin 
 
 Berikut adalah **Testimony Pebisnis PayTren** yang telah membuktikan PayTren sebagai jalan rezeki:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![testimony-paytren]({{ site.baseurl }}/images/unin.jpg)
 > Seorang Ibu 4 orang anak, mengasuh sendirian, mantan penjual gorengan, militan banget… Kini mampu memiliki income jutaan perhari. Alhamdulillah…
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![testimony-paytren]({{ site.baseurl }}/images/indie.jpg)
 > Beliau bekerja di HK sebagai asisten rumah tangga, kini semuanya berubah, karena penghasilannya meningkat berlipat-lipat. Inspiratifff…
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![testimony-paytren]({{ site.baseurl }}/images/rinawati.jpg)
 > Yu hu… Alhamdulillah… Beliau seorang ibu rumah tangga yang rajin belajar, kl ada yg gak faham, beliau terus bertanya. Cerewet sih, hehehe… Tp membawanya menjadi Ibu jutawan. Kerennn…
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![testimony-paytren]({{ site.baseurl }}/images/safingi.jpg)
 > Mantan karyawan (tukang suntik ayam), kini jadi jutawan di PayTren. Skrg sudah punya mobil juga. Sudah menikah juga. hehehe
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![testimony-paytren]({{ site.baseurl }}/images/cucum.png)
 > Seorang ibu rumah tangga yang super sibuk. Tp hal itu gak masalah karena PayTren di kerjakan dr rumah.
 
 Sampai disini, untuk Anda yang sudah semakin tertarik dan penasaran seperti apa **Cara Kerja di Bisnis PayTren...** Secara sederhana cara kerjanya adalah sebagai berikut:
