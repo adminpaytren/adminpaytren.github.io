@@ -82,7 +82,11 @@ Mungkin Anda pun berfikir demikian, semua orang termasuk Anda pasti menginginkan
 
 Alhamdulillah, perlu diketahui bahwa PayTren sudah memperoleh izin dan diawasi 4 lembaga besar regulator, ini merupakan bukti keseriusan PayTren demi memberi manfaat seluas-luasnya dalam jangka panjang.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![regulator-paytren]({{ site.baseurl }}/images/regulator-paytren.jpg)
+
+![sertifikat-mui-paytren]({{ site.baseurl }}/images/sertifikat-mui-paytren.jpg)
+
+![award-paytren]({{ site.baseurl }}/images/award-paytren.jpg)
 
 Setelah memahami apa yang sudah dijelaskan diatas, bagi Anda yang sudah semakin yakin dan mantap untuk menjadi bagian dari keluarga besar PayTren dan ingin mengetahui **Apa Saja Keuntungan yang Anda Dapatkan Setelah Daftar PayTren**, berikut adalah penjelasannya:
 
