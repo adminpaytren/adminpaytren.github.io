@@ -178,6 +178,10 @@ Untuk Anda yang sudah tidak sabar daftar, silahkan ikuti langkah-langkah **Cara 
 6. Pilih *Mentor Bisnis* dengan Mengetik ID Mitra **TN0111923** a.n. **Tri Afrizal Hilmi**. Klik Lanjutkan
 7. Masukan PIN lalu klik *Bayar*
 
+Setelah Anda berhasil melakukan **Pendaftaran PayTren Online** dengan mengikuti langkah-langkah yang sudah dijelaskan diatas, setelahnya Anda akan diikutsertakan dalam grup khusus PayTren untuk mendapat panduan dan bimbingan.
+
+
+
 [![telegram-paytren]({{ site.baseurl }}/images/telegram.png)](https://t.me/markit_paytren517)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
