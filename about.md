@@ -5,13 +5,14 @@ permalink: /about/
 ---
 
 Mentor PayTren Anda:
+
 ID   : TN0111923
 Nama : Tri Afrizal Hilmi
 
 ### More Information
 
 Akan sangat senang dan siap menjadi mentor sekaligus mitra bisnis PayTren Anda.
-Dapatkan informasi, bimbingan & konsultasi tentang PayTren dengan menghubungi **Contact me**.
+Dapatkan informasi, bimbingan & konsultasi tentang PayTren dengan menghubungi **Contact me** dibawah.
 
 ### Contact me
 
