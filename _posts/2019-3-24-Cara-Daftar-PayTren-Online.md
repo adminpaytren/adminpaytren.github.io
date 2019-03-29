@@ -166,8 +166,10 @@ Untuk Anda yang sudah tidak sabar daftar, silahkan ikuti langkah-langkah **Cara 
 3. Baca Syarat dan Ketentuan, Lalu *Centang Kotak Persetujuan*
 4. Klik Manfaat dan Ketentuan, Klik Cara Upgrade, Lalu *Klik Syarat dan Ketentuan*
 5. Klik Tombol *Beli Lisensi Pebisnis*
-6. Pilih *Mentor Bisnis* dengan Mengetik ID Mitra **TN0111923 a.n. Tri Afrizal Hilmi**. Klik Lanjutkan
+6. Pilih *Mentor Bisnis* dengan Mengetik ID Mitra **TN0111923** a.n. **Tri Afrizal Hilmi**. Klik Lanjutkan
 7. Masukan PIN lalu klik *Bayar*
+
+[![telegram-paytren]({{ site.baseurl }}/images/telegram.png)](https://wa.me/6282320067466)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
