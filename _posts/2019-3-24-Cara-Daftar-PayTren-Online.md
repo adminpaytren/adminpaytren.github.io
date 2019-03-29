@@ -15,21 +15,21 @@ Oleh karena itu tulisan ini dibuat untuk Anda yang mungkin sebelumnya sudah tert
 
 Namun untuk mengetahui apakah benar Anda membutuhkan peluang ini, maka Anda perlu memahami apakah pernyataan-pernyataan berikut terjadi pada diri Anda:
 
-[x] Kerja untuk orang lain, kerja sebulan tapi gaji habis dalam beberapa hari saja.
+📍 Kerja untuk orang lain, kerja sebulan tapi gaji habis dalam beberapa hari saja.
 
-[x] Ingin jadi Pengusaha tapi bingung mau bisnis apa.
+📍 Ingin jadi Pengusaha tapi bingung mau bisnis apa.
 
-[x] Tidak memiliki keleluasaan waktu sehingga ingin usaha yang Kerja Bisa Dirumah, Dimanapun, Kapanpun. Tanpa Meninggalkan Keluarga Anda (pasangan & anak) tercinta.
+📍 Tidak memiliki keleluasaan waktu sehingga ingin usaha yang Kerja Bisa Dirumah, Dimanapun, Kapanpun. Tanpa Meninggalkan Keluarga Anda (pasangan & anak) tercinta.
 
-[x] Bingung memilih bisnis yang jangka panjang, yang bisa diwariskan ke anak cucu, bukan mewariskan hutang kepada mereka.
+📍 Bingung memilih bisnis yang jangka panjang, yang bisa diwariskan ke anak cucu, bukan mewariskan hutang kepada mereka.
 
-[x] Pengeluaran transaksi-transaksi rutin membengkak, makanya cari cara agar lebih praktis dan lebih mudah bahkan dapat menghasilkan cashback dan komisi yang fantastis?
+📍 Pengeluaran transaksi-transaksi rutin membengkak, makanya cari cara agar lebih praktis dan lebih mudah bahkan dapat menghasilkan cashback dan komisi yang fantastis?
 
-[x] Memutuskan resign, buka usaha, tapi rugi melulu.
+📍 Memutuskan resign, buka usaha, tapi rugi melulu.
 
-[x] Mau berbisnis, tapi takut gak dibimbing.
+📍 Mau berbisnis, tapi takut gak dibimbing.
 
-[x] Sudah punya Usaha tapi belum bisa menghasilkan lebih banyak?
+📍 Sudah punya Usaha tapi belum bisa menghasilkan lebih banyak?
 
 ### Jika BENAR, Maka YA. PayTren solusinya...
 
