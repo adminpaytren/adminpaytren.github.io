@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Mentor PayTren Anda:
+ID   : TN0111923
+Nama : Tri Afrizal Hilmi
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Akan sangat senang dan siap menjadi mentor sekaligus mitra bisnis PayTren Anda.
+Dapatkan informasi, bimbingan & konsultasi tentang PayTren dengan menghubungi **Contact me**.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Chat Via Whatsapp](https://wa.me/6282320067466)
