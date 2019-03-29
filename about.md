@@ -5,9 +5,8 @@ permalink: /about/
 ---
 
 Mentor PayTren Anda:
-
-ID   : TN0111923
-Nama : Tri Afrizal Hilmi
+> ID   : TN0111923
+> Nama : Tri Afrizal Hilmi
 
 ### More Information
 
