@@ -150,6 +150,8 @@ Untuk Anda yang sudah tidak sabar daftar, silahkan ikuti langkah-langkah **Cara 
 
 **Langkah #2** *KONFIRMASI DULU untuk pengisian SALDO EMONEY...* Konfirmasi lewat [Whatsapp](https://wa.me/6282320067466)
 
+[![konsultasi-paytren]({{ site.baseurl }}/images/whatsapp.jpeg)](https://wa.me/6282320067466)
+
 **Langkah #3** *BELI STARTER PACK*
 
 1. *Buka* ke Aplikasi PayTren
@@ -169,7 +171,7 @@ Untuk Anda yang sudah tidak sabar daftar, silahkan ikuti langkah-langkah **Cara 
 6. Pilih *Mentor Bisnis* dengan Mengetik ID Mitra **TN0111923** a.n. **Tri Afrizal Hilmi**. Klik Lanjutkan
 7. Masukan PIN lalu klik *Bayar*
 
-[![telegram-paytren]({{ site.baseurl }}/images/telegram.png)](https://wa.me/6282320067466)
+[![telegram-paytren]({{ site.baseurl }}/images/telegram.png)](https://t.me/markit_paytren517)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
