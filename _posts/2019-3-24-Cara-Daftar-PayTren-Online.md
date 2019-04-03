@@ -186,4 +186,4 @@ Demikian informasi tentang PayTren yang penting untuk Anda ketahui dan penjelasa
 
 [![telegram-paytren]({{ site.baseurl }}/images/telegram.png)](https://t.me/markit_paytren517)
 
-*Salam Suskes Berjamaah*
+*Salam Sukses Berjamaah*
